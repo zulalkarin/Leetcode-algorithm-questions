@@ -64,7 +64,6 @@ class Solution {
                System.out.println("There is no common root");
 
         }
-
         return ans;
         
     }
