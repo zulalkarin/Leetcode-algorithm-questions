@@ -14,3 +14,5 @@ My solutions to some algorithm questions in leetcode.
 <h4> 20)Valid Paranthesis: </h4> <i>https://leetcode.com/problems/valid-parentheses/<i><br>
 
 <h4> 21)Merge Two Sorted List: </h4> <i>https://leetcode.com/problems/merge-two-sorted-lists/<i><br>
+
+<h4> 26)Remove Duplicates from Sorted Array: </h4> <i> https://leetcode.com/problems/remove-duplicates-from-sorted-array/ <i><br>
